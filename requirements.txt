@@ -1,7 +1,6 @@
 streamlit
 pandas
-matplotlib.pyplot
-plotly.express
-train_test_split
-RandomForestClassifier
-LabelEncoder
+matplotlib
+plotly
+scikit-learn
+openai
